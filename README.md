@@ -22,6 +22,8 @@ When an approved release is available, it will appear under [Releases](https://g
 - Public release downloads will not require end users to log in to a GitHub account.
 - Development source and test material remain private until separately reviewed for publication.
 
+See the [installation and checksum guide](INSTALLATION.md) and [public release history](CHANGELOG.md) for publication and verification requirements.
+
 ## Release-readiness requirements
 
 Before a public beta can be published, the exact Windows build must pass malware/security review, source-to-binary provenance checks, installer and in-app upgrade/rollback testing, and real notification/Live View acceptance. Stable V1 additionally requires its final release criteria and explicit owner approval.
