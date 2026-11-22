@@ -2,6 +2,8 @@
 
 **Windows desktop companion for Ring doorbells and cameras — public release preparation.**
 
+> **Public beta launch target (22 November 2026):** The project is prioritising an installable `v1.0.0-beta.12` Windows x64 **pre-release**, then fixing disclosed noncritical beta defects forward. The current [release checklist and known issues](https://github.com/DanologyUK/Ring-Windows-Notifier/issues/2) tracks the remaining publication steps. **An installer has not yet been published.** Do not use a GitHub source ZIP or private source checkpoint as an installer. The public automatic-install update path remains disabled until it is independently verified.
+
 > **Download status: NOT YET RELEASED.** There is currently no approved public Windows installer, portable executable, or in-app public update available. The Releases page is intentionally empty until the installer, security checks, and update path have passed acceptance. Do not treat GitHub's automatically generated “Source code (zip)” as an installable Windows update.
 
 ## What the application is intended to do
